@@ -1,2 +1,2 @@
 Hi.
-I'm creating a game.
+I'm creating a game. This is a minigame.
