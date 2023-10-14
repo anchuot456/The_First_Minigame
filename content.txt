@@ -1,1 +1,1 @@
-Hello. This is content file.
+Hello. This is lore file.
